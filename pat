@@ -1,7 +1,5 @@
 https://github.com/podtato-head/podtato-head/blob/main/delivery/flux/README.md
 
-azure PAT (full access):
-7onjshpgdg436lpeffpqpwyt2e6hwo6vgaa6i3b3yxdkicwdoiwq
 
 majid-rafei GitHub flux-local-test PAT (full access): 
 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
